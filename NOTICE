@@ -4,7 +4,7 @@ Copyright © 2026 Foz Florian - Tolza VScode Plugin
 
 The Tolza VScode Plugin source code is licensed under the Apache License 2.0.
 
-Source: https://github.com/TheProgrammare/Tolza-VScode-Plugin
+Source: https://github.com/florianfoz/Tolza-VScode-Plugin
 
 The **Tolza name, logo, wordmark and associated branding are separate from the source-code license and are reserved**.
 
@@ -16,13 +16,13 @@ This repository contains the official Visual Studio Code extension for the Tolza
 
 The name **Tolza**, the Tolza name and wordmark, logos, icons, and other visual elements associated with the Tolza project are part of the project's identity and are not granted under the Apache License 2.0, except where explicitly stated otherwise.
 
-The Apache License 2.0 does not grant permission to use the Tolza name, trademarks, product names, logos, icons, or other branding to imply endorsement, sponsorship, or official affiliation with the Tolza project or TheProgrammare.
+The Apache License 2.0 does not grant permission to use the Tolza name, trademarks, product names, logos, icons, or other branding to imply endorsement, sponsorship, or official affiliation with the Tolza project or florianfoz.
 
 Forks and derivative projects of this extension are permitted under the terms of the Apache License 2.0. Such projects should use their own name and visual identity and should not represent themselves as the official Tolza VS Code Plugin.
 
 ## Tolza Relationship
 
-This extension is an official component of the Tolza ecosystem maintained by TheProgrammare.
+This extension is an official component of the Tolza ecosystem maintained by Foz Florian.
 
 The existence of this repository or the use of its source code does not grant permission to represent another extension, fork, distribution, or derivative project as an official Tolza product.
 
@@ -42,4 +42,4 @@ The Apache License 2.0 applies to copyrightable source code covered by that lice
 
 ## No Endorsement
 
-Unless explicitly stated otherwise, use of the Tolza name, logos, icons, or other branding does not imply endorsement, sponsorship, or affiliation with the Tolza project or TheProgrammare.
+Unless explicitly stated otherwise, use of the Tolza name, logos, icons, or other branding does not imply endorsement, sponsorship, or affiliation with the Tolza project or florianfoz.
