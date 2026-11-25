@@ -64,7 +64,7 @@ Develop Tolza applications with confidence using an extension designed to make t
 
 1. Clone this repository
 ```bash
-git clone github@TheProgrammare-Tolza-VScode-Plugin.git
+git clone https://github.com/florianfoz/Tolza-VScode-Plugin.git
 ```
 
 2. Open the project in VScode
@@ -110,7 +110,7 @@ Copyright © 2026 Foz Florian - Tolza VScode Plugin
 
 The Tolza VScode Plugin source code is licensed under the Apache License 2.0.
 
-Source: https://github.com/TheProgrammare/Tolza-VScode-Plugin
+Source: https://github.com/florianfoz/Tolza-VScode-Plugin
 
 The **Tolza name, logo, wordmark and associated branding are separate from the source-code license and are reserved**.
 
